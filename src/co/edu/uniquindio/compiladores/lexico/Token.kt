@@ -1,4 +1,6 @@
-package co.edu.uniquindio.compiladores.aplication
+package co.edu.uniquindio.compiladores.lexico
+
+import co.edu.uniquindio.compiladores.lexico.Categoria
 
 class Token (var lexema: String, var categoria: Categoria, var fila: Int, var columna: Int) {
     override fun toString(): String {

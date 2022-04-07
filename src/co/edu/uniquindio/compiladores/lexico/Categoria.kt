@@ -1,4 +1,4 @@
-package co.edu.uniquindio.compiladores.aplication
+package co.edu.uniquindio.compiladores.lexico
 
 enum class Categoria {
     CADENA,
