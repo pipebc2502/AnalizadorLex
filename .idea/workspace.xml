@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbbebce0-97db-4455-9e1b-6deac4bcd110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnalizadorLexico/META-INF/AnalizadorLexico.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnalizadorLexico/META-INF/AnalizadorLexico.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnalizadorLexico/co/edu/uniquindio/compiladores/aplication/AplicacionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/inicio.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/inicio.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/app/Aplicacion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/app/Aplicacion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/controladores/inicioController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/controladores/inicioController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/AnalizadorLexico.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/AnalizadorLexico.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,29 +116,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="28" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1649296258062" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1649378604738">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1649394684625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684625" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1649378604738">
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1649394684624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1649378604738">
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1649394684624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1649378604738">
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1649394684624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1649296704500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1649296704500" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1649373642494">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1649392325949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649392325949" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1649373642494" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1649297686200">
       <screen x="0" y="0" width="1366" height="728" />
