@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbbebce0-97db-4455-9e1b-6deac4bcd110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/Aplicacion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/Error.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/semantica/Ambito.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/semantica/Simbolo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/semantica/TablaSimbolos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/AnalizadorSintatico.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Arreglo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Asignacion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Ciclo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Clase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Decision.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/DeclaracionVariable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Duplax.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Expresion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/ExpresionAritmetica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/ExpresionCadena.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/ExpresionLogica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/ExpresionRelacional.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Funcion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Impresion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/IncrementoDecremento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/InvocacionFuncion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/InvocacionProcedimiento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Lectura.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Metodo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Parametro.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Procedimiento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/RestarHasta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Retorno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/Sentencia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/SumarHasta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/UnidadDeCompilacion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/sintaxis/ValorNumerico.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/AnalizadorLexico.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/AnalizadorLexico.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/Token.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/lexico/Token.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +71,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="co.edu.uniquindio.compiladores.sintaxis" />
       <recent name="co.edu.uniquindio.compiladores.lexico" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UNIVERSIDAD\SEMESTRE 2022-1\COMPILADORES\AnalizadorLexico\AnalizadorLex\src\co\edu\uniquindio\compiladores" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="co.edu.uniquindio.compiladores.sintaxis" />
+      <recent name="co.edu.uniquindio.compiladores.semantica" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\UNIVERSIDAD\SEMESTRE 2022-1\COMPILADORES\AnalizadorLexico\AnalizadorLex\src\co\edu\uniquindio\compiladores\aplication" />
       <recent name="D:\UNIVERSIDAD\SEMESTRE 2022-1\COMPILADORES\AnalizadorLexico\AnalizadorLex\src\co\edu\uniquindio\compiladores\lexico" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Aplicacion">
+  <component name="RunManager" selected="Kotlin.AplicacionKt">
     <configuration name="Aplicacion" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="AnalizadorLexico" />
       <option name="VM_PARAMETERS" />
@@ -60,6 +102,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="co.edu.uniquindio.compiladores.app.Aplicacion" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AplicacionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AnalizadorLexico" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquindio.compiladores.AplicacionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,6 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AplicacionKt" />
         <item itemvalue="Kotlin.Aplicacion" />
         <item itemvalue="Kotlin.PruebaKt" />
       </list>
@@ -112,29 +168,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1649210397788" />
-    <state x="462" y="28" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1649296258062">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652650331941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652650331941" />
+    <state x="462" y="28" width="445" height="672" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1652653405378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="28" width="445" height="672" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652653405378" />
     <state x="462" y="28" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1649296258062" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1649394684625">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1652655403387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684625" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652655403387" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1649394684624">
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1652655403386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652655403386" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1649394684624">
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1652655403385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652655403385" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1649394684624">
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1652655403386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1649394684624" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1652655403386" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649378604738" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1649296704500">
       <screen x="0" y="0" width="1366" height="728" />
